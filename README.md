@@ -1,2 +1,3 @@
 # diffraction_data_analysis
- Analysis of in situ or operando powder diffraction data analysis
+
+This work will create a workflow for opening and visualizing large in situ or operando powder diffraction data sets. 
